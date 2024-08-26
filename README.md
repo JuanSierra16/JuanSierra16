@@ -9,11 +9,11 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 
 </div>
 
-- 🔭 I’m currently working at [P33R Finance](https://www.linkedin.com/company/p33r-finance/) where we were [incubated by Tenity](https://www.linkedin.com/posts/p33r-finance_tenity-invests-in-13-disruptive-early-stage-activity-7118550943268294656-cH__?utm_source=share&utm_medium=member_desktop) and selected for [AWS Startups Build Accelerator 2023](https://www.linkedin.com/posts/p33r-finance_p33r-awsbuildaccelerator-activity-7121072561857208320-U9f-?utm_source=share&utm_medium=member_desktop).
-- 🌱 I’m passionate about [serverless in AWS](https://aws.amazon.com/serverless/) and [Web3](https://ethereum.org/en/web3/).
-- 📝 I’m aiming to write **one article per week** starting from November 2023.
+- 🔭 I’m currently studying Computer Science at [UTP](https://www.utp.edu.co).
+- 🌱 I’m passionate about [Web3](https://ethereum.org/en/web3/).
+- 📝 I've been studying english **30 minutes a day** since November 2023 to improve my language skills.
 - 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).
-- ⚡ Fun fact: I read books, play the piano, and sleep with my dog!
+- ⚡ Fun fact: I read books, play chess, and I live in Pereira, Colombia!
 
 <div align="center">
 
