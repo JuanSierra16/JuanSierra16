@@ -3,6 +3,8 @@
 [![Hello World, I'm Juan José!](assets/header.gif)](https://github.com/JuanSierra16)
 Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
 
+![](https://komarev.com/ghpvc/?username=JuanSierra16)
+
 [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/TheJuan116) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/juan-jose-sierra-dev/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:juanjose.sierra@utp.edu.co?subject=Hello%20Juan,%20From%20Github)
@@ -17,7 +19,6 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=JuanSierra16)
 
 ## 💡 A Quote:
 
