@@ -15,7 +15,7 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 - 🌱 I’m passionate about [Web3](https://ethereum.org/en/web3/).
 - 📝 I've been studying english **30 minutes a day** since November 2023 to improve my language skills.
 - 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).
-- ⚡ Fun fact: I read books, play chess, and I live in Pereira, Colombia!
+- ⚡ Fun fact: My favorite data structure is a bookshelf. I play chess like a grandmaster (in my dreams) and live in Pereira, Colombia. 📚♟💻
 
 <div align="center">
 
